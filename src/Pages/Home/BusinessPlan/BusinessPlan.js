@@ -5,7 +5,7 @@ const BusinessPlan = () => {
         <div class="container mx-auto py-20 bg-gray-50 ">
         <div class="grid grid-cols-2 gap-4 mx-20">
             <div className='mx-20 mt-40'>
-                <h1 className='text-4xl font-bold my-6'>How can we help your Business ??</h1>
+                <h1 className='text-4xl font-bold my-6'>How can we help your Business ?</h1>
                 <p>We build readymade websites, mobile applications, and elaborate online business services.</p>
             </div>
             <div>
